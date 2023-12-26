@@ -1,93 +1,610 @@
-{
-    "proverbs": [
+[
+    
         {
             "proverb": "Ada suroni, monot gutguti.",
-            "englishTranslation": "If you have a beautiful daughter, keep her at home.",
-            "rohingyaTranslation": "အတားဆူရုဏိ၏ မိတ်ကွတ်ကုန်ပါ။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Agor ál zikká, fisór ál ó íkka.",
-            "englishTranslation": "If the root is cut, the tree will wither; if the nose is cut, the face will be disfigured.",
-            "rohingyaTranslation": "အဂိုရာအသည် ရှစ်ခါးကြင်းပါနှင့် ဖီဆိုးအသည် အီကကျမ်းပါနှင့်ဖွင့်ကိုလည်း ကုသိုလ်ကြားပါနှင့်ဖြစ်ကြသလိမ်းများဖြစ်သည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Agor loot, bagé nofa.",
-            "englishTranslation": "Cut the root, the tree dies.",
-            "rohingyaTranslation": "အဂိုရာလှို့ကြတ်ကွားပါ။ မိတ်ကွတ်သည်သင့်ရဲ့အသည်ကုန်တစ်ခါးကိုသာပိုမိုကြီးများဖွင့်ကြသလိမ်းများဖြစ်သည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Ágoyár córom né, soóyár córom.",
-            "englishTranslation": "A lazy person's house is a poor person's house.",
-            "rohingyaTranslation": "အဆိုတာရဲ့အိမ်သည်ကုသိုလ်အသည်ပိုမိုကြီးတစ်ခါးကိုသာပိုမိုကြီးသည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Aholbon kuñir oré, séi huwá nofore.",
-            "englishTranslation": "A person who forgets their roots has no honor.",
-            "rohingyaTranslation": "မြင်နေသော ပထမဖြစ်သောအသည်သည် အသင့်ရဲ့အိမ်မှာ မျှဝေခြင်းမရှိပါ။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Áigge fán, kúci lager.",
-            "englishTranslation": "A crowded place is like a dark forest.",
-            "rohingyaTranslation": "လူကြီးမှာမိတ်တို့သည်မတိုင်မီးများအနှောက်ပြောသလိမ်းများဖြစ်သည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Áñc or umm, kurár andha.",
-            "englishTranslation": "One who marries in haste will have many troubles.",
-            "rohingyaTranslation": "အမြင့်သောအသည်မှာအကြောင်းဝယ်သောလူသည် အပြစ်များရှိသည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Áñci áñci, táñci mare.",
-            "englishTranslation": "Slowly, slowly, one reaches far.",
-            "rohingyaTranslation": "အစွမ်းအစွမ်းကုသိုလ်အသည်အရွယ်အရွယ် အများလိုရှိသောလူသည် အောက်ကမ်းရှာသည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Alur lota thiañra farái yé fán.",
-            "englishTranslation": "To get a little, one has to lose a lot.",
-            "rohingyaTranslation": "လူသည် နိုင်ငံရဲ့ တစ်ကိုယ်တည်းကို ဝယ်ယူရရှိရမည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Anikka gouru, kuijjat laiggé fán.",
-            "englishTranslation": "A blind cow fears no tiger.",
-            "rohingyaTranslation": "တိမ်တိမ်မှာ ကြားမတစ်ကိုယ်လို့ဖြစ်ရမည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Áñti zurai faile, hañsí ká zurai nofaittí.",
-            "englishTranslation": "If the duck lays an egg, the hen will also lay an egg.",
-            "rohingyaTranslation": "ပြေးခြောက်သည် အစောပုံများလား အစောပုံလား များလား ဖြစ်သလိမ်းများဖြစ်သည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Átor alcí dator sáta, zamai ye háiye foona atá.",
-            "englishTranslation": "To get a little, one has to lose a lot.",
-            "rohingyaTranslation": "လူသည် နိုင်ငံရဲ့ တစ်ကိုယ်တည်းကို ဝယ်ယူရရှိရမည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Baforóu bát hái, mou róu muic sorar.",
-            "englishTranslation": "If you hit a buffalo on the nose, it will kneel down."
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Baiggár ek sóo, cúornir háñt sóo.",
-            "englishTranslation": "A single buffalo can defeat a thousand cows.",
-            "rohingyaTranslation": "တစ်လျှောက်သည် တစ်ခုချင်းများကို တစ်လျှောက်သည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Bála rasta, behañ óileyó bála.",
-            "englishTranslation": "A blind person on the road, guide him on the road.",
-            "rohingyaTranslation": "လမ်းမက်မှုရဲ့ အကာအကွာ လူသည် လမ်းမက်ရှိရမည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Bálai goillé, suar há.",
-            "englishTranslation": "Like a pig in a foreign land, no matter how it cries, it's just a pig.",
-            "rohingyaTranslation": "နိုင်ငံမှာ တောင်သည် ကိုယ်ပိုင်သည် ဘောင်သည် ဘေးခြေးမပိုင်သလိမ်းများလည်း သည်မျှဝေရမည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Bángga théng, gañt ot forer.",
-            "englishTranslation": "To lift a heavy load, use a lever.",
-            "rohingyaTranslation": "မြင့်ကြတ်မှုအတွင် လေဆိုင်ကို အသုံးပြုပါ။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         },
         {
             "proverb": "Bañlor feçot, gíi hózom óibou néki?",
-            "englishTranslation": "A fish out of water, does it have a happy life?",
-            "rohingyaTranslation": "ရေချိုင့်မှာ လေထဲတစ်လျှင့် ဒီးဖြစ်သလိမ်းများရှိသည်လည်း လေထဲသည် ဘေးခြေးမမေ့သည်။"
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Beçir báiggo dón, furúc báiggo zon.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Beec lalós goillé, añithar loot nofa.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Bicí gáguwa dé, kuñir re no hoñre.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Bilai ye mage bou wór suk hana óibella, kuñir e mage cómbótti óibella.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Bilair báiggo ye, síkka síjjye.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Bol óiye bol óiye, biaram foijjó né?",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Boráiya goillé séraiya za.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Bórar uore, bórer de ri.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Cíin náigga fua, ban áte maijjé ruwa.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Cíyaillar háñt sóo, baiggár ek sóo.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Cíyaillar, buddi.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Deikká góror bañdi, adeikká góror bibi.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Dhéñi Makkah gilé yó bará bañdé.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Doc or laçí, ek or fuñzá. (For ten [people] is a stick but for one is heavy.)",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Duiddár kuiddá bol, moris surar muwá bol.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ek dec ór buli, ar ek dec ór gali.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ek guli ye, dui cíyar.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ek or keñçir, kiyé loot nofa.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ek zamai háram, ek bilai háram.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ek zuk, baró bosór.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Elóm notáilé, hélom ó nái né?",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Eraiya kela noó, kuúñt kuúñt gilití.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Eto bicí, bor kuailla.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Faraillat tú dón óuk, óurin óttu fut óuk.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Foisá óiye foisá óiye, mootdima goijjó né?",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Foisá yó sún, horí yó sún.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Forúllá ré zaga dilé adá horá hóo, góror hotá gín baáre hoó.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Fúador fúça, afúador guñça.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Gáñçor kér, gouru ye nohár.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Góror gouru yé, gáñçor kér nohá. (Home cows do not eat local grass).",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Goróyár só (6) gun, dahái douyár no (9) gun. (Six merits who does [the job], but 9 merits who guides [how to do it]).",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Gusso háile manco baré, mas háile fuk baré.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Hál haçi, kuñír gólaiye fán óiye.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Háñisa feçanir fua dhul ot sorér, hon-hon dec fusár gorér.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Háñt dóroni yé, fua mariféla. (Seven midwives are more likely to kill the baby.)",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Háñt suror, sóddar.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Húda boro, thuna doró.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Jonnot, maabaf or théng ór tole.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Kuñir e uzoor dilé, mosibot aiyé.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Luta kuñir e, guu bicí háa.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Maa saá, zíi saá.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Maincór ador hóon e fiyon e, gourur ador lehón é fusón e.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Meçi dóillé cúna óizagoi, cúna dóille meçi óizagoi.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Melat zoo age, hoilot zoo fisé.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Nasi no zaníle, uçán behañ.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Nim e daktor jan e hótara, nim e elóm iman e hótora.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "No manoyar lá honó insáb nái.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Obáiggoittar jan or uortú za, báiggoittar mal or uortú za.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ói fut moille yó bála, ói dán foille yó bála.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Óile háith, noóile faith.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Óile nobboi, no óile tóggoi.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Óiyi ek din, moijjoum ek din.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Omanúic manúic óibou, ogáth gáth óibou.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Omoronir dabai.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ókkol kuñir Mokka gilé, decór guu hone háibou.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Oti cúndor or nek nái, oti ham mwar bát nái.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Óoñrtu fori, zuáñr gusól gorér.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Óosta kela, miçá nái.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Oouladé bag, holot fore.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Óouri ré fiçí, bouwó ré cíka.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Óouri yé bángile hóla, bou wé báñgilé gola.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Óouri yé maijjé gutá, bou wé faiyé súta.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ótin or dinna, kela gas no tóuk.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ahol bon oré icára, biyakkol oré técara.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ótin óttu fut óuk, faraillar tú dón óuk.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Óuñn or duwa ye, gouru no more.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ózon loi, no zon loi fúan.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Raitta nok haçilé, gom noó.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Ruáñg ór thiañ, boruna fán.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Suk córom, muk córom.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Suraiyar háñt rait, girós ór ek rait.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Sure sur goillé sair dhákor berá óile táke, bormá cándhali lagilé beggín céc.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Suror sur kual, girós ór bor kuwal.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Tiríc é, biríc.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Tuanggor gorif óile 12 bosór nozor dhoóñr táke, gorif tuanggor óile yó 12 bosór nozor cóñço táke.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Uldha sure, kutuwal baá.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Undoijjar lá, undurni bála. (For a male-mouse a female-mouse [of same people] is better.)",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Uzár báñgor, boiddor górot nitti zor.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Zar baf oré kuñír é háiye, dhéñi dekíle dhora. (Whose father was eaten by crocodile he is even afraid of a log.)",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Zar hame taré cáñze, oinno hame laçí cáñze.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Zinzirar fuain dé, gúñrar só deikké fán.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Zodi fore khoór, tóu no sáijjó cóor. (Even fallen curse [on you] do not abandon the town)",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
+        },
+        {
+            "proverb": "Zoto foto doiyór áñri, foñtót báñgi za, félai eredé íba, hazot laa.",
+            "englishTranslation": "",
+            "rohingyaTranslation": "",
+            "videoLink": ""
         }
-    ]
-}
+    
+]
